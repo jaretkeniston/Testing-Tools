@@ -11,7 +11,7 @@ Note: all images are anonymized and all specific or identifiable information is 
 
 ## Test Results Analysis
 
-<img width="750" alt="inc-test-img-4" src="https://github.com/user-attachments/assets/245d9fe0-0778-4aef-80e1-4773878db43f" />
+<img width="500" alt="inc-test-img-4" src="https://github.com/user-attachments/assets/245d9fe0-0778-4aef-80e1-4773878db43f" />
 
 <img width="750" alt="inc-test-img-3" src="https://github.com/user-attachments/assets/edb178a7-f6a6-4832-89c6-2fbad8808061" />
 
