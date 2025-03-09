@@ -1,5 +1,7 @@
 # Incrementality Testing: Causal Inference Setup and Analysis / Visualization
 
+Note: all images are anonymized and all specific or identifiable information is censored
+
 ## Geographic Split Generation and Evaluation of Test Length / Power
 
 <img width="750" alt="inc-test-img-1" src="https://github.com/user-attachments/assets/cd7a6528-2c04-41df-a941-89de28b1d60a" />
