@@ -19,4 +19,6 @@ Note: all images are anonymized and all specific or identifiable information is 
 
 ## Example: Post-Test Interpretation
 
+Note: This is an example of paid search ads on branded terms (i.e. searches for the website name) cannibalizing organic search traffic and revenue in Google Analytics attribution
+
 <img width="750" alt="inc-test-img-5" src="https://github.com/user-attachments/assets/f27a40ac-1886-4df6-acf9-458ee2a7d1a8" />
